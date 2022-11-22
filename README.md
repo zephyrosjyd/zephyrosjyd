@@ -1,4 +1,5 @@
-![zephyrosjyd’s GitHub image](https://crd.so/i/zephyrosjyd?dark&removeLink)
+![zephyrosjyd’s GitHub image](https://user-images.githubusercontent.com/15937809/203197127-3df520a0-361d-4bbb-9a25-5b65cb54a751.png)
+
 
 <!--
 **zephyrosjyd/zephyrosjyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
